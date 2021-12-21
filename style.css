@@ -1,0 +1,20 @@
+body{
+  background-color: #69C0CC;
+  background-size: cover;
+  color: #000;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Shizuru', cursive;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#header{
+  color: #F4F6F7;
+  padding: 25px;
+}
+a:hover{
+  color: green;
+}
+#find-us{
+  padding: 1px;
+}
